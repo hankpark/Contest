@@ -120,7 +120,7 @@ a.next:hover {
 /* content */
 
 html {
-  font-size: 10px;
+  font-size: 10px !important;
 }
 
 #content {
@@ -910,7 +910,7 @@ td {
 
 @media all and (max-width: 900px) {
   html {
-    font-size: 8px;
+    font-size: 8px !important;
   }
   #wrap {
     height: 550px;
@@ -1002,7 +1002,7 @@ td {
 
 @media all and (max-width: 610px) {
   html {
-    font-size: 8px;
+    font-size: 8px !important;
   }
   .main_wrap {
     width: 100%;
