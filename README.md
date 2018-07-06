@@ -21,11 +21,4 @@ Support  : **IE8+**
 
 [GitHub](https://github.com/hankpark/)
 
-## Commit
-
-|Version| Explanes |
-|--|--|
-| 1.0.0 | [Complete Copy](https://github.com/hankpark/Contest/commit/e3c9b941a0e18fc3e57e20f3d6c03c60a1ed0129) |
-
-
 **Watching for thank you**
